@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ------------------------------------------
 -->
 
-https://www.google.com/search?q=code+photos&sxsrf=APq-WBvI0Et0X9a3Xl1Lvu57imJzYewHCg:1647613822935&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjokJLl78_2AhWoxYUKHX4vCPQQ_AUoAXoECAEQAw&biw=1229&bih=603&dpr=1.56#imgrc=AldJqRzF0aCHmM
 
 
 ## Hello, It's Nourhan Saeed
