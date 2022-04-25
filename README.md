@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me:
 
-  LinkedIn: linkedin.com/in/nourhan-saeed-0a81b01a8
+  LinkedIn: https://www.linkedin.com/in/nourhan-saeed-0a81b01a8/
 
   Gmail: nourhansaeed707@gmail.com
