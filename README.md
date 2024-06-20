@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nourhan Saeed</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NourhanSaeed707?tab=repositories](https://github.com/NourhanSaeed707?tab=repositories)
 
