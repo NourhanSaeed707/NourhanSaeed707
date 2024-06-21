@@ -5,8 +5,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nourhan-saeed-0a81b01a8/" title="LinkedIn Profile"><img width="22" src="images/linkedIn.png"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/nourhan98/" title="Huggingface Profile"><img width="22" src="images/leetCode.png">LeetCode</a></code>
+  <code><a href="https://www.linkedin.com/in/nourhan-saeed-0a81b01a8/" title="LinkedIn Profile"><img width="22" src="images/linkedIn.png">  LinkedIn </a></code>
+  <code><a href="https://leetcode.com/u/nourhan98/" title="Huggingface Profile"><img width="22" src="images/leetCode.png"> LeetCode </a></code>
 </h5>
 
 <br>
